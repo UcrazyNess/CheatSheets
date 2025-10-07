@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="CheatSheet.jpg" alt="CheatSheets - Cybersecurity & DevOps" width="100%">
+</p>
+
 # 🧠 CheatSheets - Cybersecurity & DevOps
 
 A collection of **cheat sheets and study notes** I’ve created to summarize key concepts in **networking, cybersecurity, DevOps, and security tools**.  

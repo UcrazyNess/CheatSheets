@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CheatSheet.jpg" alt="CheatSheets - Cybersecurity & DevOps" width="100%">
+  <img src="./CheatSheets.jpg" alt="CheatSheets - Cybersecurity & DevOps" width="100%">
 </p>
 
 # 🧠 CheatSheets - Cybersecurity & DevOps
